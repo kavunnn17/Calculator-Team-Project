@@ -1,7 +1,7 @@
 class Calculator:
     def add(self, a, b):
         # Реалізувати додавання
-        pass
+        return a + b
 
     def subtract(self, a, b):
         # Реалізувати віднімання
