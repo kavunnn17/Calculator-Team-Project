@@ -14,3 +14,6 @@ class Calculator:
     def divide(self, a, b):
         # Реалізувати ділення
         pass
+        def add(self, a, b):
+    # Метод додавання
+    return a + b
