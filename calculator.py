@@ -1,11 +1,11 @@
 class Calculator:
     def add(self, a, b):
         # Реалізувати додавання
-        return a + b
+        pass
 
     def subtract(self, a, b):
         # Реалізувати віднімання
-       return a + b
+       pass
 
     def multiply(self, a, b):
         # Реалізувати множення
