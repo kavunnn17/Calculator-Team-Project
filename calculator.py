@@ -5,7 +5,7 @@ class Calculator:
 
     def subtract(self, a, b):
         # Реалізувати віднімання
-        pass
+       return a + b
 
     def multiply(self, a, b):
         # Реалізувати множення
